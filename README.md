@@ -10,33 +10,24 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+## Rahadiano Ahmad Fulki's Cloud Journey
+Hi , My name is Rahadiano Ahmad Fulki and this is my 100 day cloud challenge. I want to do this challenge because this is my oppertunity to become great engineer one day. My dream is to become cyber security and i wish one day my dream come true , of course all process need hard work :)
 
-## [✍️ Your Name]'s Cloud Journey
+- [✍️ Link to your Twitter](https://www.instagram.com/vergil.zyx/)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/rahadiano-ahmad-4a037228b/)
 
-[✍️ Introduce yourself]
-
-[✍️ Tell us why you started this challenge]
-
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
-
-## Stepping out the door
+## AWS Academy Foundation
 
 - [ ] ☁️ 1 > [Module 1](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 2 > [Module 2](Journey/002/Readme.md)
+- [ ] ☁️ 3 > [Module 3](Journey/003/Readme.md)
+- [ ] ☁️ 4 > [Module 4](Journey/004/Readme.md)
+- [ ] ☁️ 5 > [Module 5](Journey/005/Readme.md)
+- [ ] ☁️ 6 > [Module 6](Journey/006/Readme.md)
+- [ ] ☁️ 7 > [Module 7](Journey/007/Readme.md)
+- [ ] ☁️ 8 > [Module 8](Journey/008/Readme.md)
+- [ ] ☁️ 9 > [Module 9](Journey/009/Readme.md)
+- [ ] ☁️ 10 > [Module 10](Journey/010/Readme.md)
 
 ## Walking down the road
 
