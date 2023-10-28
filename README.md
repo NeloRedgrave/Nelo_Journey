@@ -18,9 +18,9 @@ Hi , My name is Rahadiano Ahmad Fulki and this is my 100 day cloud challenge. I 
 
 ## AWS Academy Foundation
 
-- [ ] ☁️ 1 > [Module 1](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [Module 2](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [Module 3](Journey/003/Readme.md)
+- [ ] ☁️ 1 > [ACF Module 1](Journey/001/Readme.md)
+- [ ] ☁️ 2 > [ACF Module 2 & 3](Journey/002/Readme.md)
+- [ ] ☁️ 3 > [ACF Lab 1 Module 4](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [Module 4](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [Module 5](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [Module 6](Journey/006/Readme.md)
